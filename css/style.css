@@ -1,25 +1,5 @@
-@font-face {
-    font-family: NeoSansPro-Bold;
-    src: url("../fonts/NeoSansPro-Bold.otf") format("opentype");
-}
-@font-face {
-    font-family: NeoSansPro-BoldItalic;
-    src: url("../fonts/NeoSansPro-BoldItalic.otf") format("opentype");
-}
-@font-face {
-    font-family: NeoSansPro-Italic;
-    src: url("../fonts/NeoSansPro-Italic") format("opentype");
-}
-@font-face {
-    font-family: Neo-SansPro-Regular;
-    src: url("../fonts/NeoSansPro-Regular.otf") format("opentype");
-}
-@font-face {
-    font-family: NexaSlabBoldItalic;
-    src: url("../fonts/NexaSlabBoldItalic.otf") format("opentype");
-}
     html {
-      font-family: "NeoSansPro-Bold", sans-serif;
+      font-family: "Arial", sans-serif;
     }
 #slider1_container {
     margin: 0px;
